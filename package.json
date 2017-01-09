@@ -1,0 +1,27 @@
+{
+  "name": "biometric-station",
+  "version": "0.0.1",
+  "description": "Graphical interface for the Projectwerk 1: Biometrisch Station ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sillevl/biometric-station.git"
+  },
+  "keywords": [
+    "arduino",
+    "biometric",
+    "gui",
+    "temperature",
+    "accelerometer",
+    "hearbeat"
+  ],
+  "author": "Sille Van Landschoot <info@sillevl.be>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sillevl/biometric-station/issues"
+  },
+  "homepage": "https://github.com/sillevl/biometric-station#readme"
+}
