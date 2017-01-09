@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/sillevl/biometric-station/issues"
   },
-  "homepage": "https://github.com/sillevl/biometric-station#readme"
+  "homepage": "https://github.com/sillevl/biometric-station#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
